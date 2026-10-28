@@ -1,0 +1,6 @@
+{
+  "name": "CustechBot - Academic Tools & Student Companion",
+  "description": "Comprehensive student companion with a full suite of client-side PDF tools (Merge, Split, Compress, Sign, Edit, PDF to Image, Image to PDF, Add Watermark, Extract Images) and academic utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
